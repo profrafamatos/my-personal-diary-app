@@ -4,12 +4,12 @@ Bem-vindo ao **My Personal Diary App**, uma aplicação web simples onde você p
 
 ## 📖 Sobre o Projeto
 
-O Diário Pessoal App permite que os usuários:
+O Diário Pessoal App permite que os usuários possam:
 
 - Logar no sistema usando nome de usuário e senha (admin e 1234)
-- Registrem seus pensamentos diários.
-- Visualizem uma lista de pensamentos registrados.
-- Excluam pensamentos que não desejam mais manter.
+- Registar seus pensamentos diários.
+- Visualar uma lista de pensamentos registrados.
+- Excluir pensamentos que não desejam mais manter.
 
 A aplicação é uma ótima maneira de manter um diário pessoal digital, e é construída com um design intuitivo e amigável.
 

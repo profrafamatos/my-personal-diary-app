@@ -24,7 +24,7 @@ Este projeto utiliza as seguintes tecnologias:
 
 ## 📦 Instalação
 
-Para rodar o projeto localmente, siga os passos abaixo:
+Para rodar o projeto localmente na sua IDE de preferência, siga os passos abaixo:
 
 1. Clone o repositório:
 

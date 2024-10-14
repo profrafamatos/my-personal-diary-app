@@ -8,7 +8,7 @@ O Diário Pessoal App permite que os usuários possam:
 
 - Logar no sistema usando nome de usuário e senha (admin e 1234)
 - Registar seus pensamentos diários.
-- Visualar uma lista de pensamentos registrados.
+- Visualizar uma lista de pensamentos registrados.
 - Excluir pensamentos que não desejam mais manter.
 
 A aplicação é uma ótima maneira de manter um diário pessoal digital, e é construída com um design intuitivo e amigável.
@@ -32,10 +32,16 @@ Para rodar o projeto localmente, siga os passos abaixo:
    git clone https://github.com/profrafamatos/diario-pessoal-app.git
    cd my-personal-diary-app
 
+   ```
+
 2. Instale as dependências
+
    ```bash
    npm install
 
+   ```
+
 3. Inicie o servidor usando o Nodemon
-    ```bash
-    nodemon start
+   ```bash
+   nodemon start
+   ```
